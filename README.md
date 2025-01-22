@@ -16,5 +16,8 @@ al agregar un nombre este pasa a mayusculas.
 # Uso
 Como acontinuacion, un pequeño tutorial de como usarlo!
 
-https://github.com/user-attachments/assets/3b164f39-98a3-45ff-87d3-1b3f2cb043a9
+
+https://github.com/user-attachments/assets/21ee358a-db7b-4f3e-be35-0f26ec6fbad7
+
+
 
