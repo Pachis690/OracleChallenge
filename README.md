@@ -7,9 +7,10 @@ Este es un pequeño programama donde su pricipal función es almacenar nombre de
 
 ------------------------------------------------------------------------------------------------------
 # Implementaciones para facilitar!
-Agregague una funcion para que no te preocupes por las mayusculas!
+Agregue una funcion para que no te preocupes por las mayusculas!
 al agregar un nombre este pasa a mayusculas.
-![captura de mayus](https://github.com/user-attachments/assets/feae2afd-96d5-46d3-87d5-74f3e2276916)
+![captura de mayus](https://github.com/user-attachments/assets/7e8eb28c-9fb9-4a43-9957-9026c2cea9cf)
+
 
 
 -------------------------------------------------------------------------------------------------------
